@@ -49,4 +49,4 @@ require (
 )
 
 // FIXME
-replace github.com/kyleconroy/sqlc => github.com/DispatchHealth/sqlc tj-ventura
+replace github.com/kyleconroy/sqlc => github.com/DispatchHealth/sqlc v1.15.1
